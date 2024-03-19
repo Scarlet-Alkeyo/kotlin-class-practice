@@ -29,7 +29,6 @@ name(arrayOf("hello","jane","nany"))
 }
 fun name(names:Array<String>){
   println(names.contentToString())
-
 }
 fun word(words:Array<String>){
   println(words.contentToString())
