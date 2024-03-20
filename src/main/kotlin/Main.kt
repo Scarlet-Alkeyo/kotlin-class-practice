@@ -24,15 +24,10 @@ println(numbers.get(1)+(2))
   println(country[1])
   println(country.indexOf("Scarlet"))
   println(country.get(2))
-name(arrayOf("hello","jane","nany"))
+
 
 }
-fun name(names:Array<String>){
-  println(names.contentToString())
-}
-fun word(words:Array<String>){
-  println(words.contentToString())
-}
+
 
 
 
